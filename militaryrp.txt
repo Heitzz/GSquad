@@ -1,0 +1,19 @@
+"sandbox"
+{
+	"base"		"base"
+	"title"		"MilitaryRP"
+	"menusystem"	"1"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"physgun_limited"
+			"text"		"limit_physgun"
+			"help"		"If enabled, the Physics Gun will not be able to pick up certain map entities"
+			"type"		"CheckBox"
+			"default"	"0"
+		}
+
+	}
+}
